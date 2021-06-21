@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @mathanchandran
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
